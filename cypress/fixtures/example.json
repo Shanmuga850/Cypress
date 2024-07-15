@@ -1,0 +1,22 @@
+{
+    "_comment": "You must edit this before each test run, ensuring that the email and username are unique and not previously used.",
+
+    "email": "sha3@gmail.com", 
+    "username" : "sha3",
+    
+
+    "_comment1": "No need to edit",
+
+    "emailforvalidations" : "cypress@getnada.com",
+    "invalidemailformat" : "abc123.com",
+    "minpass" : "1234567",
+    "maxpass" : "12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901",
+    "retypepass" : "87654321",
+    "invalidusername" : "a",
+
+    "_comment2": "default",
+    "otp" : "123456",
+    "pass": "12345678",
+    "phonenumber" : "1234567890"
+    
+  }
